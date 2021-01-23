@@ -43,7 +43,8 @@ namespace OOP1
 
             //int, bool, double .... değer tipler - atamalar tamamen değer üzerinden olur ve bütün bağlantı kopar
             //diziler, class, abstract class, interface ---- referans tiplerdir. atamalar referansın bellekteki adresiyle yapılır. - 
-            //ref out ders kaynaklarında youtube videosunu izle 3 gün deki
+            //ref out ders kaynaklarında youtube videosunu izle 3 gün deki (izledim)
+            //https://www.youtube.com/watch?v=rSsrJu5dWec&list=PLqG356ExoxZU5keiJwuHDpXqULLffwRYD&index=25
 
 
 
